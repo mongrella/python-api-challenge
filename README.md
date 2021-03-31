@@ -1,5 +1,8 @@
 # python-api-challenge
 
+Note to grader: Unfortunately, I had a lot of issues calling the Weather API key, so I couldn't fully complete the homework. However, I completed as much as I could and added some placeholder code for the graphs that I would have done anyway had I gotten everything to work. I hope this is mildly ok.
+
+
 WEATHERPY:
 
 Your first requirement is to create a series of scatter plots to showcase the following relationships:
